@@ -59,7 +59,7 @@
         android:id="@+id/button"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:backgroundTint="@color/purple_700"
+        android:background="@drawable/rounded_button"
         android:text="Sign Up"
         android:textAppearance="@style/TextAppearance.AppCompat.Large" />
 </LinearLayout>
